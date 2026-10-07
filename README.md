@@ -11,7 +11,6 @@
 - src/proxy.c และ proxy.h โหลดรายการ proxy SOCKS5 สแกนลบตัวเสีย และ tunnel
 - src/ui.c และ ui.h แสดงผลบน console รับ input และจัดการ Ctrl+C
 - verified_socks5.txt รายการ proxy หนึ่งบรรทัดต่อหนึ่งตัว รูปแบบ host:port
-- Makefile และ build.bat ใช้คอมไพล์โปรเจกต์
 
 ## ภาพรวมการทำงาน
 
